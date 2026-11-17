@@ -19,3 +19,7 @@ data/*.parquet
 .vscode/
 .idea/
 .DS_Store
+
+# Prywatne notatki (nie commitujemy)
+PLAN.md
+IDEAS.md
